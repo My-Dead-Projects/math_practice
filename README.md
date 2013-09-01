@@ -1,7 +1,7 @@
 Math Practice
 =============
 
-A little command line app for practicing multiplication practice
+A little command line app for practicing multiplication
 
 Install and Run (OS X):
 -------------
